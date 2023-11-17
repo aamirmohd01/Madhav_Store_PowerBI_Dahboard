@@ -21,7 +21,7 @@ Table2: Oredrs.csv order Id, Order Date, Customer Name, City , State
 
 Insights :
 
-1. Maximum profit earned by Maharashtra State followed by Madhya Pradesh.
+1. Maximum profit earned by Maharashtra State followed by Madhya Pradesh, Delhi and Uttar Pradesh.
 
 2. Harivansh is the Top purchasing customer has spent nearly 10K INR in the market.
 
