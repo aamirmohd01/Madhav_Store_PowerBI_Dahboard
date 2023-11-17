@@ -1,4 +1,6 @@
 # Madhav_Store_PowerBI_Dahboard
+![picture](https://github.com/aamirmohd01/Madhav_Store_PowerBI_Dahboard/assets/110297027/42be97f0-0edc-441f-816f-9459b4c0048e)
+
 
 This is the overview of the Madhav Store Dashboard by PowerBI.
 Project Objective:
